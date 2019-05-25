@@ -22,7 +22,6 @@
 
 .gallery__main_img {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start; }
 

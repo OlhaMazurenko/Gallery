@@ -28,13 +28,11 @@
 
 .gallery__main_img {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
 
 .gallery_list {
-  
   padding: 4px;
   border: $g_img-border;
   margin-right: 4px;
